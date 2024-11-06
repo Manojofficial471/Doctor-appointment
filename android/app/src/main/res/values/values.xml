@@ -1,0 +1,8 @@
+<resources>
+    <string name="default_web_client_id">your_web_client_id</string> <!-- Optional, can leave out -->
+    <string name="ga_trackingId"></string> <!-- Optional, can leave out -->
+    <string name="firebase_database_url">https://testinginappnotificatiton.firebaseio.com/</string>
+    <string name="gcm_defaultSenderId">1024780308712</string>
+    <string name="google_api_key">AIzaSyDhOeFs-F1gphPqS7IJ56urdA9EA8XL-Fw</string>
+    <string name="firebase_storage_bucket">testinginappnotificatiton.appspot.com</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1024780308712",
+    "project_id": "testinginappnotificatiton",
+    "storage_bucket": "testinginappnotificatiton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024780308712:android:dd770eb8903dcb2e07f95d",
+        "android_client_info": {
+          "package_name": "com.example.hellofcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhOeFs-F1gphPqS7IJ56urdA9EA8XL-Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024780308712:android:063515c77d3ebc8907f95d",
+        "android_client_info": {
+          "package_name": "com.example.newproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhOeFs-F1gphPqS7IJ56urdA9EA8XL-Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
